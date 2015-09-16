@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 03:03:06.915058
+# -*- mode: mandoku-view -*-
 #+TITLE: 弘道錄
-#+PROPERTY: DZID  DZ1464
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，35—1 五十六卷 續道藏
+#+DATE: 2015-08-29 03:04:27
+#+PROPERTY:  LASTPB <PB KR5h0033_SJB_041-350317a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶¶
+
